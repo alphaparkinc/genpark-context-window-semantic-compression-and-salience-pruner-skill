@@ -1,0 +1,8 @@
+{
+  "name": "genpark-context-window-semantic-compression-and-salience-pruner-skill",
+  "version": "1.0.0",
+  "description": "Scores conversational turns and tool outputs by semantic salience to prune low-value tokens within context budgets",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
